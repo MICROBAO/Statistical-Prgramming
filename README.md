@@ -11,11 +11,5 @@ The topics includes:
 6. EM algorithm, Gaussian mixture, factor analysis
 7. Random number generators, Monte Carlo integration
 8. Metropolis algorithm, Gibbs sampling, Bayesian posterior sampling
-•	Eigen computation, Principal Component Analysis
-•	Logistic regression, Newton-Raphson
-•	Lasso, coordinate descent, boosting, solution path
-•	Feed-forward neural network, back-propagation
-•	EM algorithm, Gaussian mixture, factor analysis
-•	Random number generators, Monte Carlo integration
-•	Metropolis algorithm, Gibbs sampling, Bayesian posterior sampling
+
 
