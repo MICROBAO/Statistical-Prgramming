@@ -1,6 +1,6 @@
 
-#the optional is done except for the determinent is not very effeicient and the recursion 
-#version hasn't been finished
+#the optional is done except for the determinent is not very effeicient and 
+#the recursion version is easy to code but with more time complexity 
 
 #dongzheli 104434089
 #sweep operator ---fortified with input restricts : square invertible matrix
