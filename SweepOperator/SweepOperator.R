@@ -92,6 +92,7 @@ myGaussJordan <- function(A, m)
   return(B)
 }
 
+
 A = matrix(c(1,2,3,7,11,13,17,21,23), 3,3)
 solve(A)
 myGaussJordan(A,3)
