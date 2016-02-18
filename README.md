@@ -3,6 +3,7 @@ The content is the implemention of the following core algorithms in statistical 
 All the codes avoid the built-in packages and give an insight into the algorithm.
 
 The topics includes:
+
 1. Least squares regression, sweep operator, QR decomposition
 2. Eigen computation, Principal Component Analysis
 3. Logistic regression, Newton-Raphson
