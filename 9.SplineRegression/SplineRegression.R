@@ -14,7 +14,7 @@ my_ridge <- function(X, Y, lambda)
   return(beta)
 }
 
-sourceCpp("mySweep_new_cpp.cpp")
+sourceCpp("SweepOperator.cpp")
 
 n = 40
 p = 500
